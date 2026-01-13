@@ -36,9 +36,7 @@ The report consists of **5 interactive pages**, each addressing a specific analy
 - Risk Categorization (Low / Medium / High)  
 - High-Risk Coins KPI & Table  
 
-📸 *Screenshot:*  
-`D:\Yashvi\Cryptocurrency dataset\Volatility & Risk Analysis.png`
-
+![Risk Overview](https://github.com/YashviPandya/Crypto_Analysis/blob/main/Volatility%20%26%20Risk%20Analysis.png)
 ---
 
 ## 💱 Page 4: Investor Transaction Analysis
@@ -48,7 +46,7 @@ The report consists of **5 interactive pages**, each addressing a specific analy
 - Investor-level transaction table  
 - Coin, Investor, and Date slicers  
 
-![Investor Analysis](https://github.com/YashviPandya/Crypto_Analysis/blob/main/Investor%20Transaction%20Analysis.png)
+![Investor Overview](https://github.com/YashviPandya/Crypto_Analysis/blob/main/Investor%20Transaction%20Analysis.png)
 ---
 
 ## 💼 Page 5: Portfolio Overview
