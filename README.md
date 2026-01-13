@@ -27,7 +27,7 @@ The report consists of **5 interactive pages**, each addressing a specific analy
 - 7-Day & 30-Day Moving Averages  
 - Multi-coin comparison  
 
-![Price Overview](https://github.com/YashviPandya/Crypto_Analysis/blob/main/Investor%20Transaction%20Analysis.png)
+![Price Overview](https://github.com/YashviPandya/Crypto_Analysis/blob/main/Price%20%26%20Volume%20Analysis.png)
 ---
 
 ## ⚠️ Page 3: Risk Analysis
@@ -48,9 +48,7 @@ The report consists of **5 interactive pages**, each addressing a specific analy
 - Investor-level transaction table  
 - Coin, Investor, and Date slicers  
 
-📸 *Screenshot:*  
-`D:\Yashvi\Cryptocurrency dataset\Investor Transaction Analysis.png`
-
+![Investor Analysis](https://github.com/YashviPandya/Crypto_Analysis/blob/main/Investor%20Transaction%20Analysis.png)
 ---
 
 ## 💼 Page 5: Portfolio Overview
