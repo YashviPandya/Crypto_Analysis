@@ -27,9 +27,7 @@ The report consists of **5 interactive pages**, each addressing a specific analy
 - 7-Day & 30-Day Moving Averages  
 - Multi-coin comparison  
 
-📸 *Screenshot:*  
-`D:\Yashvi\Cryptocurrency dataset\Price & Volume Analysis.png`
-
+![Price Overview](https://github.com/YashviPandya/Crypto_Analysis/blob/main/Investor%20Transaction%20Analysis.png)
 ---
 
 ## ⚠️ Page 3: Risk Analysis
