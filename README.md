@@ -17,7 +17,8 @@ The report consists of **5 interactive pages**, each addressing a specific analy
 - Top 10 Cryptocurrencies by Market Cap (Bar Chart)  
 - Market price snapshot & key metrics  
 
-![Market Overview](Crypto Market & Investor Analysis.png)
+
+![Market Overview](https://github.com/YashviPandya/Crypto_Analysis/blob/main/Cryptomarket%20Market%20%26%20Investors%20Analysis.png)
 ---
 
 ## 📈 Page 2: Price & Volume Analysis
