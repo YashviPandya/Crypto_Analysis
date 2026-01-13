@@ -63,9 +63,7 @@ This page provides a **holistic view of investor portfolio performance**.
 - **Waterfall Chart:** Transaction Impact on Portfolio Value  
 - **What-If Parameter:** Investment Amount Simulation  
 
-📸 *Screenshot:*  
-`D:\Yashvi\Cryptocurrency dataset\Portfolio Performance & Diversification.png`
-
+![Portfoilo Overview](https://github.com/YashviPandya/Crypto_Analysis/blob/main/Portfolio%20Performance%20%26%20Diversification.png)
 ---
 
 ## 📂 Datasets Used
